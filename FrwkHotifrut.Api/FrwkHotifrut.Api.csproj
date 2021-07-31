@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.17" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FrwkHortifrut.Dominio\FrwkHortifrut.Dominio.csproj" />
+    <ProjectReference Include="..\FrwkHortifrut.Service\FrwkHortifrut.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

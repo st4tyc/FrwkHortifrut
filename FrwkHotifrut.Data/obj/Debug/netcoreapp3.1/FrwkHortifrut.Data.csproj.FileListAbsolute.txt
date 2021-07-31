@@ -1,0 +1,12 @@
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\bin\Debug\netcoreapp3.1\FrwkHortifrut.Data.deps.json
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\bin\Debug\netcoreapp3.1\FrwkHortifrut.Data.dll
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\bin\Debug\netcoreapp3.1\FrwkHortifrut.Data.pdb
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.AssemblyInfoInputs.cache
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.AssemblyInfo.cs
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.dll
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.pdb
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.csprojAssemblyReference.cache
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\bin\Debug\netcoreapp3.1\FrwkHortifrut.Dominio.dll
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\bin\Debug\netcoreapp3.1\FrwkHortifrut.Dominio.pdb
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.csproj.CopyComplete
+C:\Projetos\pessoais\FrameworkHortifrut\FrwkHortifrut\FrwkHotifrut.Data\obj\Debug\netcoreapp3.1\FrwkHortifrut.Data.csproj.CoreCompileInputs.cache
